@@ -1,14 +1,4 @@
 # Student-Registration-Form
-# Task 1 Report: Development of User Registration System
-
-## Task Overview
-**Title:** Development of User Registration System  
-**Date:** [Insert Date]  
-**Prepared by:** [Your Name]  
-
-## Objective
-The objective of Task 1 was to develop a user registration system using HTML, CSS, Node.js, and MongoDB. The system allows users to register by providing their PRN, name, email, branch, and password. The task involved creating a front-end registration form, implementing backend logic to handle form submissions, connecting to a MongoDB database for data storage, and displaying appropriate feedback to users based on their registration status.
-
 ## Task Details (given by @bharatintern)
 
 ### 1. Front-End Development
